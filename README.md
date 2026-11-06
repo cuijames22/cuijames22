@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is James Cui and I am a Computer Engineering Major at UC San Diego 😁
 
 <!--
 **cuijames22/cuijames22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
